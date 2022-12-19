@@ -1,0 +1,16 @@
+*{
+    --nav-link-hover-color: #ffb900;
+    --nav-link-active-color: #ffb900;
+    --nav-link-color:#fff;
+    --text-color-white:#fff;
+    --form-text:#777;
+    --submit-btn-color: #ffb900;
+    --submit-btn-hover-color: #111;
+    --header-style-color:rgba(27, 27, 27, 0.2);
+    --about-text-color:#393a3a;
+    --about-bg-color:#f5f7f7;
+    --about-info-color:#777777;
+    --border-color:#00a591;
+    --carousel-bg-color : var(--about-text-color);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}   
