@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Satyam-Consultancy/static/css/main.9a54b5ba.css",
-    "main.js": "/Satyam-Consultancy/static/js/main.bb6d97b0.js",
+    "main.js": "/Satyam-Consultancy/static/js/main.dacfd1ec.js",
     "static/media/banner.jpg": "/Satyam-Consultancy/static/media/banner.11914e0eb21cc7d6c989.jpg",
     "static/media/slick.svg": "/Satyam-Consultancy/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Satyam-Consultancy/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,10 +9,10 @@
     "static/media/slick.woff": "/Satyam-Consultancy/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Satyam-Consultancy/index.html",
     "main.9a54b5ba.css.map": "/Satyam-Consultancy/static/css/main.9a54b5ba.css.map",
-    "main.bb6d97b0.js.map": "/Satyam-Consultancy/static/js/main.bb6d97b0.js.map"
+    "main.dacfd1ec.js.map": "/Satyam-Consultancy/static/js/main.dacfd1ec.js.map"
   },
   "entrypoints": [
     "static/css/main.9a54b5ba.css",
-    "static/js/main.bb6d97b0.js"
+    "static/js/main.dacfd1ec.js"
   ]
 }
