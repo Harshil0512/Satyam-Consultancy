@@ -8,7 +8,7 @@ const Header = () =>{
                     <div className="col-md-2 col-sm-2">
                         <div className="container my-2 text-center">
                             <Link to="/" className="navbar-brand fw-bold fs-1 text-light">
-                                <img src="../../images/logo.PNG" alt="Satyam Property Consultancy Logo" className="logo" />
+                                <img src="images/logo.png" alt="Satyam Property Consultancy Logo" className="logo" />
                             </Link>
                         </div>
                     </div>

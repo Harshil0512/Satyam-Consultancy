@@ -51,7 +51,7 @@ const Categories = ()=>{
                             </div>
                         </div>
                         <Link to='#'>
-                            <img src='images/category/Flats.jpeg' alt='Flats' className='card-img-top img-fluid' style={{"height":"240px"}} />
+                            <img src='images/category/flats.jpeg' alt='Flats' className='card-img-top img-fluid' style={{"height":"240px"}} />
                         </Link>
                     </div> 
                 </div>
