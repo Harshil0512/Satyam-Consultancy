@@ -1,0 +1,19 @@
+.carousel-inner
+{
+    background: var(--carousel-bg-color);
+}
+.carousel-content
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:25px;
+}
+.carousel-profile
+{
+    min-width: 200px;
+    max-width: 300px !important;
+    max-height: 300px !important;
+    height: auto;
+    padding:0px 50px;
+}
